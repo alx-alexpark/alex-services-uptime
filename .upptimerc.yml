@@ -9,6 +9,10 @@ sites:
     url: https://md.parkalex.dev
   - name: Authentik
     url: https://auth.funny-bunny.ninja
+  - name: Minecraft
+    check: "tcp-ping"
+    url: amogus.servers.funny-bunny.ninja
+    port: 25565
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
