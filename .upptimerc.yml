@@ -1,17 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: alx-alexpark # Your GitHub organization or username, where this repository lives
+repo: alex-services-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: parkalex.dev
+    url: https://parkalex.dev
+  - name: Hedgedoc
+    url: https://md.parkalex.dev
+  - name: Authentik
+    url: https://auth.funny-bunny.ninja
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
