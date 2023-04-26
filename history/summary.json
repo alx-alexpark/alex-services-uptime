@@ -76,19 +76,19 @@
     "url": "amogus.servers.funny-bunny.ninja",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 68,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "status": "up",
+    "uptime": "76.31%",
+    "uptimeDay": "32.21%",
+    "uptimeWeek": "76.31%",
+    "uptimeMonth": "76.31%",
+    "uptimeYear": "76.31%",
+    "time": 85,
+    "timeDay": 78,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-04-26": 0
+      "2023-04-26": 976
     }
   }
 ]
