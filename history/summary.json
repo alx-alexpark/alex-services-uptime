@@ -4,17 +4,19 @@
     "url": "https://parkalex.dev",
     "icon": "https://icons.duckduckgo.com/ip3/parkalex.dev.ico",
     "slug": "parkalex-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 66,
-    "timeWeek": 84,
-    "timeMonth": 111,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 135,
+    "timeDay": 798,
+    "timeWeek": 184,
+    "timeMonth": 136,
+    "timeYear": 135,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   }
 ]
